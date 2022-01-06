@@ -1,3 +1,3 @@
 # Tienda-Virtual
-## Proyecyo Js
+## Proyecto Js
 #Ezequiel Siderakis
