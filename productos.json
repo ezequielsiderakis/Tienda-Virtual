@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta S ",
+    "tipo": "camiseta",
+    "desc": "camiseta de lycra",
+    "precio": 1200,
+    "talle": "S",
+    "img": "./carrito/CAMISETA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta M  ",
+    "tipo": "camiseta",
+    "desc": "camiseta de lycra",
+    "precio": 1300,
+    "talle": "M",
+    "img": "./carrito/CAMISETA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta L ",
+    "tipo": "camiseta",
+    "desc": "camiseta de lycra",
+    "precio": 1400,
+    "talle": "L",
+    "img": "./carrito/CAMISETA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Bermuda S ",
+    "tipo": "bermuda",
+    "desc": "bermuda de algodon",
+    "precio": 1400,
+    "talle": "S",
+    "img": "./carrito/BERMUDA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Bermuda M ",
+    "tipo": "bermuda",
+    "desc": "bermuda de algodon",
+    "precio": 1500,
+    "talle": "M",
+    "img": "./carrito/BERMUDA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Bermuda L",
+    "tipo": "bermuda",
+    "desc": "bermuda de algodon",
+    "precio": 1600,
+    "talle": "L",
+    "img": "./carrito/BERMUDA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Botinero  ",
+    "tipo": "botinero",
+    "desc": "botinero super practico",
+    "precio": 800,
+    "talle": "U",
+    "img": "./carrito/BOTINERO.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Llavero ",
+    "tipo": "llavero",
+    "desc": "llavero con escudo",
+    "precio": 300,
+    "talle": "U",
+    "img": "./carrito/LLAVERO.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Pelota",
+    "tipo": "pelota",
+    "desc": "pelota con escudo",
+    "precio": 1800,
+    "talle": "U",
+    "img": "./carrito/PELOTA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 10,
+    "nombre": "Canillera S",
+    "tipo": "canilleras",
+    "desc": "ideal para niños",
+    "precio": 700,
+    "talle": "S",
+    "img": "./carrito/CANILLERA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Canillera M ",
+    "tipo": "canilleras",
+    "desc": "Ideal para adolescente",
+    "precio": 800,
+    "talle": "M",
+    "img": "./carrito/CANILLERA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 12,
+    "nombre": "Canillera L ",
+    "tipo": "canilleras",
+    "desc": "Ideal para Adultos",
+    "precio": 900,
+    "talle": "L",
+    "img": "./carrito/CANILLERA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 13,
+    "nombre": "Medias S ",
+    "tipo": "Medias",
+    "desc": "Medias de lycra super frescas ",
+    "precio": 900,
+    "talle": "S",
+    "img": "./carrito/MEDIAS.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 14,
+    "nombre": "Medias M ",
+    "tipo": "Medias",
+    "desc": "Medias de lycra super frescas",
+    "precio": 1000,
+    "talle": "M",
+    "img": "./carrito/MEDIAS.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 15,
+    "nombre": "Medias L ",
+    "tipo": "Medias",
+    "desc": "Medias de lycra super frescas",
+    "precio": 1100,
+    "talle": "L",
+    "img": "./carrito/MEDIAS.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 16,
+    "nombre": "Botines 1 ",
+    "tipo": "Botines",
+    "desc": "del talle 32 al 35",
+    "precio": 3500,
+    "talle": "S",
+    "img": "./carrito/BOTINES.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 17,
+    "nombre": "Botines 2 ",
+    "tipo": "Botines",
+    "desc": "del talle 35 al 39",
+    "precio": 3500,
+    "talle": "M",
+    "img": "./carrito/BOTINES.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 18,
+    "nombre": "Botines 3 ",
+    "tipo": "Botines",
+    "desc": "del 40 al 45",
+    "precio": 3500,
+    "talle": "L",
+    "img": "./carrito/BOTINES.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 19,
+    "nombre": "Gorra",
+    "tipo": "gorro",
+    "desc": "ideal para ir a la cancha",
+    "precio": 1200,
+    "talle": "U",
+    "img": "./carrito/GORRA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 20,
+    "nombre": "Maqueta",
+    "tipo": "maqueta",
+    "desc": "Maqueta para armar",
+    "precio": 12000,
+    "talle": "U",
+    "img": "./carrito/MAQUETA.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 21,
+    "nombre": "Set Matero",
+    "tipo": "Set Ideal para la playa",
+    "desc": "Termo, Mate, yerbera, azucarera y bolso",
+    "precio": 2500,
+    "talle": "U",
+    "img": "./carrito/setmate.jpg",
+    "cantidad": 1
+  } 
+
+]
